@@ -1,6 +1,27 @@
 [
   {
     "Author": "Angelways",
+    "Name": "Anemos",
+    "Punchline": "优雷卡常风之地半自动（测试中）",
+    "Description": "插件目前处于早期不稳定阶段。欢迎任何积极的建议。",
+    "Tags": [
+      "Eureka",
+      "Anemos",
+      "FATE"
+    ],
+    "InternalName": "Anemos",
+    "RepoUrl": "https://github.com/Angelways/Anemos",
+    "AssemblyVersion": "0.5.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/Anemos/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/Anemos/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1788672095"
+  },
+  {
+    "Author": "Angelways",
     "Name": "OCNFarmer",
     "Punchline": "自动管理蜃景幻界新月岛南征/北征之章寻宝与钱币购买。",
     "Description": "蜃景幻界新月岛 南征之章&北征之章全自动寻宝流程。Gugu对南岛流程以及钱币购买做出了贡献。启动命令：/ocnstart；停止命令：/ocnstop。",
@@ -20,6 +41,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1788671221"
+    "LastUpdate": "1788671308"
   }
 ]
