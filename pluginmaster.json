@@ -11,8 +11,8 @@
     ],
     "InternalName": "OCNFarmer",
     "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-    "Changelog": "新增文档入口，优化界面布局",
-    "AssemblyVersion": "1.9.7.0",
+    "Changelog": "修复插件更新后的用户设置迁移问题",
+    "AssemblyVersion": "1.9.8.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Angelways/OCNFarmer/main/icon.png",
@@ -20,6 +20,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1788670421"
+    "LastUpdate": "1788671221"
   }
 ]
