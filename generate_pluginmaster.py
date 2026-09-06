@@ -9,7 +9,7 @@ from pathlib import Path
 from zipfile import ZipFile
 
 
-REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "Angelways/OCNFarmer")
+REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "Angelways/DalamudPlugins")
 BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
 PLUGINS_ROOT = Path("plugins")
 OUTPUT = Path("pluginmaster.json")

@@ -17,9 +17,9 @@
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Angelways/OCNFarmer/main/icon.png",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/OCNFarmer/main/plugins/OCNFarmer/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/OCNFarmer/main/plugins/OCNFarmer/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1788670252"
+    "LastUpdate": "1788670421"
   }
 ]
