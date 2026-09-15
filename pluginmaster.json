@@ -32,8 +32,8 @@
     ],
     "InternalName": "OCNFarmer",
     "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-    "Changelog": "正式版 2.1.0.0：优化顶部状态布局与颜色，改进首次验证提示和验证页面入口。",
-    "AssemblyVersion": "2.1.0.0",
+    "Changelog": "正式版 2.2.0.0：完善验证初始化重试与授权拦截，优化完整/简化界面布局及赞助入口。",
+    "AssemblyVersion": "2.2.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/icon.png",
@@ -41,6 +41,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1789290556"
+    "LastUpdate": "1789490991"
   }
 ]
