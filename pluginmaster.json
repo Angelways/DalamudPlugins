@@ -32,7 +32,7 @@
     ],
     "InternalName": "OCNFarmer",
     "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-    "Changelog": "正式版 2.3.1.0：切换南北岛及 DR/XSZ 寻宝完成后改用游戏原生退本，兼容 Daily Routines 移除退本功能的更新；增加退本重试与超时停止，保留退本后可动等待；移除使用条件和一键开启模块中的即刻退本。",
+    "Changelog": "正式版 2.3.1.0：兼容 Daily Routines 移除退本功能的更新。",
     "AssemblyVersion": "2.3.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
