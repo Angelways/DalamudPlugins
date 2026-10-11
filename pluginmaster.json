@@ -32,8 +32,8 @@
     ],
     "InternalName": "OCNFarmer",
     "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-    "Changelog": "正式版 2.3.0.0：优化切岛、寻宝退本与魔之塔导航的可动等待；重构小水晶周围玩家检测与换点流程；角色离线时按异常通知设置告警并停止；精简主界面任务提示和常规日志。",
-    "AssemblyVersion": "2.3.0.0",
+    "Changelog": "正式版 2.3.1.0：切换南北岛及 DR/XSZ 寻宝完成后改用游戏原生退本，兼容 Daily Routines 移除退本功能的更新；增加退本重试与超时停止，保留退本后可动等待；移除使用条件和一键开启模块中的即刻退本。",
+    "AssemblyVersion": "2.3.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/icon.png",
@@ -41,6 +41,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1789619832"
+    "LastUpdate": "1791690499"
   }
 ]
