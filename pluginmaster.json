@@ -32,8 +32,8 @@
     ],
     "InternalName": "OCNFarmer",
     "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-    "Changelog": "正式版 2.3.4.0：修复 DR 重新启用后的寻宝实例识别，读取已初始化的内外环路线名称；识别失败时自动使用国服寻宝指令尝试启动。",
-    "AssemblyVersion": "2.3.4.0",
+    "Changelog": "正式版 2.4.0.0：新增对于RSR循环插件的支持；新增角色掉线时自动重试的功能；新增流程异常时自动重试的功能 ",
+    "AssemblyVersion": "2.4.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/icon.png",
@@ -41,6 +41,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792120875"
+    "LastUpdate": "1792592523"
   }
 ]
