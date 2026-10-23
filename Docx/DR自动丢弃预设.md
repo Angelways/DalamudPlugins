@@ -1,0 +1,37 @@
+# DR 自动丢弃预设
+
+用于 Daily Routines（DR）的「自动丢弃」模块，帮助清理背包中的指定物品。
+
+## 预设说明
+
+| 项目 | 内容 |
+| --- | --- |
+| 预设名称 | 新月岛跑刀 |
+| 清单数量 | 168 种物品 |
+| 原说明中的筛选标准 | 市场价值低于 10,000 金币的物品 |
+| 原说明中的保留类别 | 染剂、魔晶石、演技教材 |
+
+> **使用前请核对物品清单。** 此导入码保存的是固定的物品 ID 列表，本身不包含实时市场价格或价格阈值设置。上述价格标准和保留类别沿用原预设说明，不代表会随当前市价或新增物品自动更新。
+
+## 导入方法
+
+1. 复制下方代码块中的**完整导入码**。
+2. 打开 DR 的「自动丢弃」模块，使用预设导入功能粘贴导入码。
+3. 确认预设名称为「新月岛跑刀」，检查物品清单，并移除自己需要保留的物品。
+4. 核对无误后，再启用对应的自动丢弃配置。
+
+## 导入码
+
+使用 GitHub 代码块右上角的复制按钮，可复制完整导入码。
+
+```text
+eyJVbmlxdWVOYW1lIjoi5paw5pyI5bKb6LeR5YiAIiwiSXRlbXMiOlsyMzM1MywyMzM1NCwyMzM1NywyMzM1OCwyMzM1OSwyMzM1MCwyMzk5OCwyMTkxNiwyNDYzNCwyNDAwMSwyNDQ5MCwyNDUwNSwyMzg3NSwyNzI4Nyw0NDI2NCw0ODIwNCwyMjk5NywyNzI3MCwyNzI4MiwyNzI4NCwyNzI4NSwyNzMxMiwyNzMxNSwyMTkxMSw0ODE1NiwyMTIwNCwyODYyNiwyNjc5MCw0Nzk4NywyMzAwMCw0ODE1NywzOTUwMSwyMzAyOCwyNDYzOSwyMTkxOSwyNDAwNSwyMTA1OSwzMDA1Niw0ODIwNiwzMzcwOSwyNzI5MSwyMTkyMCwyNjgwMywyMTkxNywyNjgwNiw0Nzk3OSwyNDAwMCwyMzM3MywyMTIwMywyMTIwMiwyMTkyMSwyODYyMSwyMTkzNywyMzM1NSwyODYyMCw0ODIwNywzMDc1Niw0MTUwMiwyMTk0MSwyNDMzOSwzMDc1OCwyMjk5OSwyNjgwMiwyNjgwMSwyMzM3NCwyMjk5OCwyNzk5MSwyNzkzOSwyMTA1NywyMzk4OSwyNzk0MiwyNjc4NywyNzI4NiwyNDAwNCwzODQyOCwyMTA2NSwyODU4OCwyMTA1OCwzNjExNyw0MDM5NCwzNTk3OSw0ODIwNSw0NTAwNiwzMjg1OSwyNDU5MywzMDA1NywyMzM1MSwyNjc5MywzMzY5MywyNzk0MCwyNzkzOCwzMDc1NywzMTM5NywyMTkxOCwzMDg3MCwyMTA2MywyNDU5MSwyODk4MCwyODU5MCwyNDkwMiwyMTkzNiwzMDc1NSwyNDU5MiwyMzM1Niw0NDI2MywyMTA2NCwyNjc4OCw0NTAwNSwyMTE5MywzMDg3NiwyNDAwNiwzNTk3MywyMzAwMiwzNTk4MSwyMzM1MiwyMzAwMSwyNzk0MSw1MDc4Miw1MDc4Myw1MDMyMCwzMDA1NSwyODYxOCwyODU5MSwzOTMxMyw1MjM2NiwzODI0NSwxMDM4NywxMDM5NiwzNjg0MiwzMDA5NCwzOTMxNSwzNjgzOCwzMzY1NSw1MjQ0MSw1MjM2OCwxMDM4OSwzODI0NCwxMDM5MCwyMDQ3NCw1MjM2NywyMDQ3MiwyMDQ3OCwzODI0NiwzOTMxMiwzOTMxMSwzODI0NywxNDkzOSwzMzY2MSwzODI0MywyMDQ3MSwzMzY1NywzMzY1NiwxNDk0Miw1MjI4NiwzOTQxOSwxNTkyNywzOTMwOSwxNDk0MSwxNTkyMywxMDM5NSwxMDM4OCwzMzY1OCwzOTMxMCwzNjgzOSwzMzY2MCwzMzY2MiwyODU4OSwzMDg2MV0sIkJlaGF2aW91ciI6MH0=
+```
+
+## 使用提示
+
+- 自动丢弃会处理背包物品，启用前请确认清单符合自己的需求。
+- 各服务器、各时段的市场价格可能不同；有价值或准备自用的物品，请自行从清单中移除。
+- 更新预设前，建议先导出并保存自己的现有配置，方便恢复或对照。
+
+需要纯文本格式时，可使用 [TXT 版本](./DR自动丢弃预设.txt)。两个版本的导入码相同。
