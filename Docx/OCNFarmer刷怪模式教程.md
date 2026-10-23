@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 #### 战斗模式、回复与减伤
 
-原稿使用 Mei 的“日随模式”。参照下图检查自动盾姿、冲刺、挑衅、智能 AOE、减伤、回血技能及其阈值，保证被拉来的怪物能够被接住并持续处理。
+使用 Mei 的“日随模式”。参照下图检查自动盾姿、冲刺、挑衅、智能 AOE、减伤、回血技能及其阈值，保证被拉来的怪物能够被接住并持续处理。
 
 ![Mei 日随模式](assets/ocnfarmer-mob-farming/04-mei-mode.png)
 
