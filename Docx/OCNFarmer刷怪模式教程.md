@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/pluginmaster.jso
 
 #### Mei 与目标选择
 
-使用 Mei ACR，并参照图示检查目标选择器和相关开关。图示选择逻辑为“距离最近”，索敌范围为 `30`；其余选项也请一并核对。
+使用 Mei ACR，并参照图示检查目标选择器和相关开关。
 
 ![Mei ACR](assets/ocnfarmer-mob-farming/01-mei-acr.png)
 
