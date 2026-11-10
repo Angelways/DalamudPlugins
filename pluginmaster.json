@@ -42,5 +42,27 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1792847489"
+  },
+  {
+    "Author": "Angelways",
+    "Name": "Triathlon",
+    "Punchline": "时间与条件流程编排（早期实验性，谨慎使用，欢迎反馈）",
+    "Description": "插件仍然处于早期实验性阶段，请谨慎使用，欢迎反馈问题与建议。可视化编排时间、游戏状态及区域条件、连续聊天命令、套装与坐骑、等待和循环，支持版本化预设分享。内置示例脚本-OCNFarmer与Autoduty进本退本简单循环。使用 /triathlon 打开。",
+    "Tags": [
+      "调度",
+      "脚本",
+      "中文"
+    ],
+    "InternalName": "Triathlon",
+    "RepoUrl": "https://github.com/Angelways/DalamudPlugins",
+    "Changelog": "仅内置玩家提供的 OCNFarmer 与 AutoDuty 进退本循环示例，移除旧自带示例；保留切区加载等待修复。早期实验性版本，欢迎反馈。",
+    "AssemblyVersion": "0.1.0.7",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/Triathlon/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/Triathlon/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1794335108"
   }
 ]
