@@ -55,14 +55,14 @@
     ],
     "InternalName": "Triathlon",
     "RepoUrl": "https://github.com/Angelways/DalamudPlugins",
-    "Changelog": "明确系统时间、艾欧泽亚时间、UTC 及本地时区偏移，顶部不再显示测试时间；每步新增条件满足后的执行延迟，支持倒计时、暂停和测试倍速；可独立选择延迟到期后及每条后续聊天命令前是否复查条件。早期实验性版本，请谨慎使用，欢迎反馈。",
-    "AssemblyVersion": "0.1.0.9",
+    "Changelog": "时区显示简化为 [时区：UTC+8] 格式；保留条件满足后延迟执行及两个独立的条件复查开关。早期实验性版本，请谨慎使用，欢迎反馈。",
+    "AssemblyVersion": "0.1.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/Triathlon/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/Triathlon/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1794377549"
+    "LastUpdate": "1794380079"
   }
 ]
