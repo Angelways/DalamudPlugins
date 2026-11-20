@@ -32,7 +32,7 @@
     ],
     "InternalName": "OCNFarmer",
     "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-    "Changelog": "南北岛小水晶改用原生传送，覆盖寻宝换点、南岛刷怪和北岛魔之塔路线。Server酱新增「通知发送绕过系统代理」，默认开启。",
+    "Changelog": "修复了小水晶传送失败的相关问题；增加了server酱发送通知绕过系统代理的功能。",
     "AssemblyVersion": "2.7.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
