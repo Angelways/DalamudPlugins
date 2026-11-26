@@ -29,14 +29,14 @@
       "MerchantTrump"
     ],
     "InternalName": "MerchantAssist",
-    "Changelog": "同一登录会话内复用首次确认的双人许可。降低资格复核频率，连续 5 次复核失败才暂停流程。需要双端更新。",
-    "AssemblyVersion": "1.0.0.2",
+    "Changelog": "修复了一些问题",
+    "AssemblyVersion": "1.0.0.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/MerchantAssist/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/MerchantAssist/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1795723247"
+    "LastUpdate": "1795725798"
   },
   {
     "Author": "Angelways",
