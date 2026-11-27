@@ -5,7 +5,7 @@ MerchantAssist 用于双人游玩「深读商客奇谭」。队长和队员都�
 ## 安装和准备
 
 1. 在国服卫月（Dalamud）中安装 MerchantAssist。两端使用同一版本。
-2. 安装自动循环插件并开启**主动攻击**。下方以 Rotation Solver Reborn（RSR）为例。
+2. 安装自动循环插件并开启 **主动攻击**。下方以 Rotation Solver Reborn（RSR）为例。
 3. 安装 **BossMod Reborn（BMR）** 和 **vnavmesh**。下表是本教程使用的订阅源。
 
 | 插件 | 仓库地址 |
@@ -18,7 +18,7 @@ MerchantAssist 用于双人游玩「深读商客奇谭」。队长和队员都�
 
 - 关闭 TextAdvance、YesAlready、Daily Routines、OmniToolBox 等插件里会跳过对话或自动点击确认框的功能。
 - 关闭其他插件中会与 MerchantAssist 冲突的功能，例如原地复活。
-- 如果客户端设置了帧数上限，请设为 **45 FPS 或更高**。关闭客户端和其他插件里的所有**后台帧数限制**。帧数过低可能影响机制处理。
+- 如果客户端设置了帧数上限，请设为 **45 FPS 或更高**。关闭客户端和其他插件里的所有 **后台帧数限制**。帧数过低可能影响机制处理。
 
 ## 配置 RSR 和 BMR
 
@@ -28,15 +28,23 @@ MerchantAssist 用于双人游玩「深读商客奇谭」。队长和队员都�
 
 ![RSR 目标配置中的 Engage settings 选项](assets/merchantassist-tutorial/rsr-targeting.png)
 
+在 RSR 打开「自动 → 自动切换」，关闭这个分组里的 **所有开关**，如图所示。
+
+![RSR 自动切换分组中的所有开关均已关闭](assets/merchantassist-tutorial/rsr-auto-switch.png)
+
 ### BossMod Reborn
 
-**必开选项。**打开「战斗时跟随」「Boss 模块激活时跟随」和「跟随目标」。
+#### 必开选项
+
+打开「战斗时跟随」「Boss 模块激活时跟随」和「跟随目标」。
 
 ![BMR 的战斗时跟随和 Boss 模块激活时跟随均已开启](assets/merchantassist-tutorial/bmr-combat-follow.png)
 
 ![BMR 的跟随目标已开启](assets/merchantassist-tutorial/bmr-follow-target.png)
 
-**参考配置。**位置选「任何」，近战最大距离设为 3，远程最大距离设为 8，目标圈最小距离设为 0，禁区优选距离设为 1。使用 RSR 时，可按图开启「跟随 RotationSolverReborn 期望的身位」。
+#### 参考配置
+
+位置选「任何」，近战最大距离设为 3，远程最大距离设为 8，目标圈最小距离设为 0，禁区优选距离设为 1。使用 RSR 时，可按图开启「跟随 RotationSolverReborn 期望的身位」。
 
 ![BMR 的站位和距离参考设置](assets/merchantassist-tutorial/bmr-positioning.png)
 
@@ -57,7 +65,7 @@ MerchantAssist 用于双人游玩「深读商客奇谭」。队长和队员都�
 
 3. 密码正确后，用鼠标连续按住「长按确认 3 秒」，直到按钮上的进度条走完、弹窗关闭。
 4. 组成两人小队，在特殊迷宫探索器设置所需的多变技能。双方在插件「流程」页选择与实际队伍身份一致的模式，并检查循环次数和战利品选项。
-5. **队员先点「开始」，队长随后点「开始」。**需要回看教程时，可点击主页面的「打开新手教程」。
+5. **队员先点「开始」，队长随后点「开始」**。需要回看教程时，可点击主页面的「打开新手教程」。
 
 ## 实验性玩法（可能提高效率）
 

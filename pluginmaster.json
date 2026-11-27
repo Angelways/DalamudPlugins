@@ -29,14 +29,14 @@
       "MerchantTrump"
     ],
     "InternalName": "MerchantAssist",
-    "Changelog": "修复了一些问题",
-    "AssemblyVersion": "1.0.0.3",
+    "Changelog": "新增新手教程入口和首次使用确认流程。",
+    "AssemblyVersion": "1.0.0.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/MerchantAssist/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/MerchantAssist/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1795725798"
+    "LastUpdate": "1795768230"
   },
   {
     "Author": "Angelways",
