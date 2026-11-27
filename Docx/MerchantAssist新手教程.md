@@ -4,7 +4,7 @@ MerchantAssist 用于双人游玩「深读商客奇谭」。队长和队员都�
 
 ## 安装和准备
 
-1. 在国服卫月（Dalamud）中安装 MerchantAssist。两端使用同一版本。如已安装独立版 MerchantTrump，先停用它。
+1. 在国服卫月（Dalamud）中安装 MerchantAssist。两端使用同一版本。
 2. 安装自动循环插件并开启**主动攻击**。下方以 Rotation Solver Reborn（RSR）为例。
 3. 安装 **BossMod Reborn（BMR）** 和 **vnavmesh**。下表是本教程使用的订阅源。
 
