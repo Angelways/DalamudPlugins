@@ -14,11 +14,16 @@ MerchantAssist 用于双人游玩「深读商客奇谭」。队长和队员都�
 | BossMod Reborn（逆光喵版） | `https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json` |
 | vnavmesh（国际服原版） | `https://puni.sh/api/repository/veyn` |
 
-### 检查可能冲突的设置
+## 检查可能冲突的设置
 
-- 关闭 TextAdvance、YesAlready、Daily Routines、OmniToolBox 等插件里会跳过对话或自动点击确认框的功能。
-- 关闭其他插件中会与 MerchantAssist 冲突的功能，例如原地复活。
-- 如果客户端设置了帧数上限，请设为 **45 FPS 或更高**。关闭客户端和其他插件里的所有 **后台帧数限制**。帧数过低可能影响机制处理。
+> [!IMPORTANT]
+> **队长和队员都请在启动前逐项检查。**
+>
+> - **关闭自动退出副本。** 检查所有插件，关闭其中的「自动退出副本」功能。
+> - **只保留一个 BossMod Reborn。** 保留上表推荐的逆光喵版 BossMod Reborn，并从插件加载目录中移除其他所有 BossMod 和 BossMod Reborn 插件。
+> - **关闭自动对话和确认。** 检查 TextAdvance、YesAlready、Daily Routines、OmniToolBox 等插件，关闭跳过对话和自动点击确认框的功能。
+> - **关闭其他冲突功能。** 例如其他插件的原地复活。
+> - **关闭所有后台帧数限制。** 如果客户端需要限制帧数，请设为 **45 FPS 或更高**。帧数过低可能影响机制处理。
 
 ## 配置 RSR 和 BMR
 
