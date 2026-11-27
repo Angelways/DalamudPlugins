@@ -22,7 +22,7 @@ MerchantAssist 用于双人游玩「深读商客奇谭」。队长和队员都�
 > - **关闭自动退出副本。** 检查所有插件，关闭其中的「自动退出副本」功能。
 > - **只保留一个 BossMod Reborn。** 保留上表推荐的逆光喵版 BossMod Reborn，并从插件加载目录中移除其他所有 BossMod 和 BossMod Reborn 插件。
 > - **关闭自动对话和确认。** 检查 TextAdvance、YesAlready、Daily Routines、OmniToolBox 等插件，关闭跳过对话和自动点击确认框的功能。
-> - **关闭其他冲突功能。** 例如其他插件的原地复活。
+> - **关闭其他冲突功能。** 例如其他插件的原地复活、自动开箱、自动ROLL点等功能。
 > - **关闭所有后台帧数限制。** 如果客户端需要限制帧数，请设为 **45 FPS 或更高**。帧数过低可能影响机制处理。
 
 ## 配置 RSR 和 BMR
@@ -55,7 +55,7 @@ MerchantAssist 用于双人游玩「深读商客奇谭」。队长和队员都�
 
 ## 自动精制和自动修理
 
-有需要时，可以使用 Daily Routines（DR）的自动修理和自动精制。MerchantAssist 已对常见的修理和精制流程做了适配。
+有需要时，可以使用 Daily Routines（DR）的自动修理和自动精制。MerchantAssist 已对该插件的修理和精制流程做了适配。
 
 如果想减少流程中断，可以关闭自动精制，在 DR 自动修理中开启「允许委托非玩家角色修理」和「优先委托非玩家角色修理」，然后在维修 NPC 附近启动 MerchantAssist。
 
