@@ -30,13 +30,13 @@
     ],
     "InternalName": "MerchantAssist",
     "Changelog": "增加了本地对所有机制的处理，不再依赖BossModReborn",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/MerchantAssist/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/MerchantAssist/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1795844293"
+    "LastUpdate": "1795856272"
   },
   {
     "Author": "Angelways",

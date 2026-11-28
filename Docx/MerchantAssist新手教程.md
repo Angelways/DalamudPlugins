@@ -6,7 +6,10 @@ MerchantAssist 用于双人游玩「深读商客奇谭」。队长和队员都�
 
 1. 在国服卫月（Dalamud）中安装 MerchantAssist。两端使用同一版本。
 2. 安装自动循环插件并开启 **主动攻击**。下方以 Rotation Solver Reborn（RSR）为例。
-3. 安装 **vnavmesh**。下表是本教程使用的订阅源。
+3. 双端都须安装 **vnavmesh（必须使用国际服原版）**。订阅地址见下表。
+
+> [!IMPORTANT]
+> **vnavmesh 必须使用国际服原版。** 使用其他版本可能导致副本流程卡住或首领机制走位异常。
 
 | 插件 | 仓库地址 |
 | --- | --- |
