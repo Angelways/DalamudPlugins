@@ -29,14 +29,14 @@
       "MerchantTrump"
     ],
     "InternalName": "MerchantAssist",
-    "Changelog": "新增新手教程入口和首次使用确认流程。",
-    "AssemblyVersion": "1.0.0.4",
+    "Changelog": "增加了本地对所有机制的处理，不再依赖BossModReborn",
+    "AssemblyVersion": "1.1.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/MerchantAssist/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/MerchantAssist/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1795768230"
+    "LastUpdate": "1795844293"
   },
   {
     "Author": "Angelways",
